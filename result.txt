@@ -32,3 +32,5 @@ pattern learning: loss_before>loss_val 1560052290.5141819 batch_size = 2 batch_c
 normal learning:                       1560053109.4574487 batch_size = 2                     normal_learning_test acc = 0.545 batch_size = 2
 pattern learning: loss_before>loss_val 1560054220.1564028 batch_size = 2 batch_count_max = 8 pattern_learning_test acc 0.5226666666666666 batch_size = 2
 normal learning:                       1560055038.5048134 batch_size = 2                     normal_learning_test acc = 0.5365 batch_size = 2
+pattern learning: loss_before>loss_val 1560076033.951988 batch_size = 4 batch_count_max = 10 pattern_learning_test acc 0.6891666666666667 batch_size = 4
+normal learning:                       1560076450.399617 batch_size = 4                     normal_learning_test acc = 0.6675 batch_size = 4
