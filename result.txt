@@ -34,3 +34,11 @@ pattern learning: loss_before>loss_val 1560054220.1564028 batch_size = 2 batch_c
 normal learning:                       1560055038.5048134 batch_size = 2                     normal_learning_test acc = 0.5365 batch_size = 2
 pattern learning: loss_before>loss_val 1560076033.951988 batch_size = 4 batch_count_max = 10 pattern_learning_test acc 0.6891666666666667 batch_size = 4
 normal learning:                       1560076450.399617 batch_size = 4                     normal_learning_test acc = 0.6675 batch_size = 4
+pattern learning: loss_before>loss_val 1560077197.771717 batch_size = 4 batch_count_max = 12 pattern_learning_test acc 0.6633333333333333 batch_size = 4
+normal learning:                       1560077734.123446 batch_size = 4                     normal_learning_test acc = 0.655 batch_size = 4
+pattern learning: loss_before>loss_val 1560079441.4005618 batch_size = 2 batch_count_max = 12 pattern_learning_test acc 0.555 batch_size = 2
+normal learning:                       1560080253.5870569 batch_size = 2                     normal_learning_test acc = 0.5766666666666667 batch_size = 2
+pattern learning: loss_before>loss_val 1560080581.01111 batch_size = 8 batch_count_max = 12 pattern_learning_test acc 0.6870833333333334 batch_size = 8
+normal learning:                       1560080802.1976037 batch_size = 8                     normal_learning_test acc = 0.7270833333333333 batch_size = 8
+pattern learning: loss_before>loss_val 1560082863.403803 batch_size = 4 batch_count_max = 12 pattern_learning_test acc 0.6416666666666667 batch_size = 4
+normal learning:                       1560083279.1019962 batch_size = 4                     normal_learning_test acc = 0.6516666666666666 batch_size = 4
