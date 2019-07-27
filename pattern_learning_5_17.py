@@ -84,7 +84,7 @@ count_no_iter = 0
 count_1 = 0
 count_2 = 0
 
-batch_count_max = 8
+batch_count_max = 7
 batch_count = 0
 
 length_of_loss_aver = 1
