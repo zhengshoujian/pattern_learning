@@ -1,5 +1,0 @@
-#定义优化算子
-optimizer = tf.train.AdamOptimizer(1e-3)
-#选择待优化的参数
-output_vars = tf.get_collection(tf.GraphKyes.TRAINABLE_VARIABLES, scope='outpt')
-train_step = optimizer.minimize(loss_score,var_list = output_vars)
