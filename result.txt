@@ -1,0 +1,34 @@
+pattern learning: loss_before>loss_val Fri Jun  7 14:00:01 2019 batch_size = 1 batch_count_max = 8 pattern_learning_test acc 0.11333333333333333
+normal learning:                       Fri Jun  7 14:02:37 2019 batch_size = 1                     normal_learning_test acc = 0.3233333333333333
+pattern learning: loss_before>loss_val Fri Jun  7 14:15:30 2019 batch_size = 1 batch_count_max = 8 pattern_learning_test acc 0.11333333333333333
+normal learning:                       Fri Jun  7 14:20:32 2019 batch_size = 1                     normal_learning_test acc = 0.09333333333333334
+pattern learning: loss_before<loss_val Fri Jun  7 14:35:10 2019 batch_size = 4 batch_count_max = 8 pattern_learning_test acc 0.45916666666666667batch_size = 4
+normal learning:                       Fri Jun  7 14:40:21 2019 batch_size = 4                     normal_learning_test acc = 0.0975batch_size = 4
+pattern learning: loss_before<loss_val Fri Jun  7 14:56:12 2019 batch_size = 4 batch_count_max = 8 pattern_learning_test acc 0.6275batch_size = 4
+normal learning:                       Fri Jun  7 15:01:52 2019 batch_size = 4                     normal_learning_test acc = 0.6183333333333333batch_size = 4
+pattern learning: loss_before<loss_val Fri Jun  7 15:42:54 2019 batch_size = 1 batch_count_max = 8 pattern_learning_test acc 0.09 batch_size = 1
+normal learning:                       Fri Jun  7 16:10:13 2019 batch_size = 1                     normal_learning_test acc = 0.07666666666666666 batch_size = 1
+pattern learning: loss_before<loss_val 1559896734.8965168 batch_size = 2 batch_count_max = 8 pattern_learning_test acc 0.5016666666666667 batch_size = 2
+normal learning:                       1559897563.0199955 batch_size = 2                     normal_learning_test acc = 0.585 batch_size = 2
+pattern learning: loss_before<loss_val 1559898783.7082078 batch_size = 4 batch_count_max = 8 pattern_learning_test acc 0.6591666666666667 batch_size = 4
+normal learning:                       1559899201.7596326 batch_size = 4                     normal_learning_test acc = 0.6766666666666666 batch_size = 4
+pattern learning: loss_before<loss_val 1559899531.460827 batch_size = 8 batch_count_max = 8 pattern_learning_test acc 0.69 batch_size = 8
+normal learning:                       1559899753.447074 batch_size = 8                     normal_learning_test acc = 0.7225 batch_size = 8
+pattern learning: loss_before<loss_val 1559901480.3103971 batch_size = 1 batch_count_max = 4 pattern_learning_test acc 0.09 batch_size = 1
+normal learning:                       1559903114.8088257 batch_size = 1                     normal_learning_test acc = 0.11666666666666667 batch_size = 1
+pattern learning: loss_before<loss_val 1559911865.6513317 batch_size = 2 batch_count_max = 4 pattern_learning_test acc 0.5483333333333333 batch_size = 2
+normal learning:                       1559912684.3191984 batch_size = 2                     normal_learning_test acc = 0.54 batch_size = 2
+pattern learning: loss_before<loss_val 1559914687.6324596 batch_size = 2 batch_count_max = 4 pattern_learning_test acc 0.56 batch_size = 2
+normal learning:                       1559915504.6404011 batch_size = 2                     normal_learning_test acc = 0.5533333333333333 batch_size = 2
+pattern learning: loss_before<loss_val 1559916174.3347225 batch_size = 4 batch_count_max = 4 pattern_learning_test acc 0.6433333333333333 batch_size = 4
+normal learning:                       1559916598.5927103 batch_size = 4                     normal_learning_test acc = 0.6591666666666667 batch_size = 4
+pattern learning: loss_before>loss_val 1560007493.457852 batch_size = 3 batch_count_max = 4 pattern_learning_test acc 0.5633333333333334 batch_size = 3
+normal learning:                       1560008050.3827887 batch_size = 3                     normal_learning_test acc = 0.571111111111111 batch_size = 3
+pattern learning: loss_before>loss_val 1560008696.5836828 batch_size = 8 batch_count_max = 4 pattern_learning_test acc 0.7225 batch_size = 8
+normal learning:                       1560008920.6443336 batch_size = 8                     normal_learning_test acc = 0.71 batch_size = 8
+pattern learning: loss_before>loss_val 1560049026.0266 batch_size = 4 batch_count_max = 4 pattern_learning_test acc 0.6941666666666667 batch_size = 4
+normal learning:                       1560049446.0801048 batch_size = 4                     normal_learning_test acc = 0.6466666666666666 batch_size = 4
+pattern learning: loss_before>loss_val 1560052290.5141819 batch_size = 2 batch_count_max = 4 pattern_learning_test acc 0.525 batch_size = 2
+normal learning:                       1560053109.4574487 batch_size = 2                     normal_learning_test acc = 0.545 batch_size = 2
+pattern learning: loss_before>loss_val 1560054220.1564028 batch_size = 2 batch_count_max = 8 pattern_learning_test acc 0.5226666666666666 batch_size = 2
+normal learning:                       1560055038.5048134 batch_size = 2                     normal_learning_test acc = 0.5365 batch_size = 2
